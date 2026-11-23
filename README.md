@@ -1,3 +1,9 @@
+![Open City: the game running in the city](docs/workshop-screenshot.jpg)
+
+**Open City by Vitalii Kuzminov**, a community instance made at the [ACRYL Bootcamp](https://github.com/acrylworkshop/bootcamp-2026-11-20), Vienna, 20 November 2026.
+
+---
+
 # Open City
 
 A cel-shaded 3D open-world action game in a 1986 city: drive cars, take speedboats, fly helicopters and seaplanes, through day and night, with a six-star police chase.

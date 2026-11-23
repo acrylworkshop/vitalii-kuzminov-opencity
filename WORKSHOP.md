@@ -2,6 +2,8 @@
 
 This repository is Vitalii Kuzminov's community instance of **Open City**, the cel-shaded 3D open-world action game Blend for ACRYL Blends.
 
+![Open City](docs/workshop-screenshot.jpg)
+
 - GitHub: <https://github.com/333icet333>
 - Upstream Blueprint: `acrylblends.open-city`, <https://github.com/acrylblends/41-open-city>
 - Registry: <https://acrylblends.github.io/blends>
